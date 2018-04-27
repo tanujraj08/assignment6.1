@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">testreport</string>
+    <string name="test_btn_text">Test</string>
+</resources>
